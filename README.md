@@ -6,3 +6,5 @@ app mirror for scoop (referenced from my [scoop-bucket](https://github.com/berns
 - [Scanner](http://www.steffengerlach.de/freeware)
 - [ShadowExplorer](https://www.shadowexplorer.com/)
 - [WinDirStat](https://windirstat.net/)
+
+also contains a selection of scripts
