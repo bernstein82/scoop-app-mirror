@@ -1,9 +1,5 @@
 Windows Registry Editor Version 5.00
 
-; Created by: Shawn Brink
-; Windows 8 Help Forums
-; Tutorial: Control Panel - Add or Remove from Navigation Pane Tutorial | Windows 8 Help Forums
-
 [HKEY_CLASSES_ROOT\CLSID\{26EE0668-A00A-44D7-9371-BEB064C98683}]
 "System.IsPinnedToNameSpaceTree"=dword:00000001
 

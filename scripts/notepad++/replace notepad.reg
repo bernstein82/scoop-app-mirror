@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\notepad.exe]
+"Debugger"="\"C:\\ProgramData\\scoop\\apps\\notepadplusplus-np\\current\\notepad++.exe\" -notepadStyleCmdline -z"
